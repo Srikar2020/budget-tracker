@@ -10,4 +10,4 @@ https://srikar-budgettracker.herokuapp.com/
 
 # Screenshots 
 
-![Screenshots](/Users/srikarkudumula/Desktop/budget-tracker/Screenshots/img.jpg?raw=true "Screenshots")
+In screenshot folder 
